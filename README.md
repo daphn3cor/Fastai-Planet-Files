@@ -5,4 +5,4 @@ In the notebook from the 2nd week of the Fast.ai course, you have to download th
 While for some this might not be a problem, for people with no terminal experience this can be an obstacle.
 This notebook guides you through the process of downloading the files.
 
-
+Link to notebook viewer: http://nbviewer.jupyter.org/github/daphn3cor/Fastai-Planet-Files/blob/master/notebook.ipynb 
